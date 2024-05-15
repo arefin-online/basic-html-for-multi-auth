@@ -1,0 +1,52 @@
+label {
+    font-weight: 600;
+}
+.login-container {
+    font-family: 'Noto Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #4056ce;
+}
+.login-container .inner {
+    background: #fff;
+    padding: 40px 30px;
+    width: 420px;
+    border-radius: 6px;
+}
+.login-container .inner h2 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.login-container .inner input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+.login-container .inner button {
+    margin-bottom: 15px;
+    width: 100%;
+}
+.menu-container {
+    background: #eee;
+}
+.menu-container .nav {
+    background: #eee;
+}
+.menu-container #dropdownMenuButton {
+    border: none;
+}
+.page-container .main-card h3 {
+    font-size: 24px;
+}
+.page-container .main-card-header {
+    background: #e7ffe4;
+}
+.page-container .small-card {
+    background: #ededed;
+    text-align: center;
+}
